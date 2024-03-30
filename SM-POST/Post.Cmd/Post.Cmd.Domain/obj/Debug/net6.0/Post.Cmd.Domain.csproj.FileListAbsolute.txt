@@ -9,3 +9,9 @@ C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\n
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\refint\Post.Cmd.Domain.dll
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.pdb
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\ref\Post.Cmd.Domain.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\CQRS.Core.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Common.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Common.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CopyComplete

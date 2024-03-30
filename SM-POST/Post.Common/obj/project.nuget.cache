@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpsPiBOQq/RTSVh2V0kxCll/IuNslGD++d1FWju8498anAQCEfU6h7LW//Wveprrcygtu5UeF2STaPD3M09T0g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

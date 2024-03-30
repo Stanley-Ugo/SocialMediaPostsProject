@@ -88,6 +88,57 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      },
+      "Post.Cmd.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0",
+          "Post.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Cmd.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Cmd.Domain.dll": {}
+        }
+      },
+      "Post.Cmd.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0",
+          "Post.Cmd.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Cmd.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Cmd.Infrastructure.dll": {}
+        }
+      },
+      "Post.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Common.dll": {}
+        }
       }
     }
   },
@@ -216,10 +267,34 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../../CQRS-ES/CQRS.Core/CQRS.Core.csproj"
+    },
+    "Post.Cmd.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Post.Cmd.Domain/Post.Cmd.Domain.csproj",
+      "msbuildProject": "../Post.Cmd.Domain/Post.Cmd.Domain.csproj"
+    },
+    "Post.Cmd.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
+      "msbuildProject": "../Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj"
+    },
+    "Post.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Post.Common/Post.Common.csproj",
+      "msbuildProject": "../../Post.Common/Post.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CQRS.Core >= 1.0.0",
+      "Post.Cmd.Domain >= 1.0.0",
+      "Post.Cmd.Infrastructure >= 1.0.0",
+      "Post.Common >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -254,7 +329,20 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            },
+            "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+              "projectPath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+            },
+            "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+              "projectPath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
+            },
+            "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

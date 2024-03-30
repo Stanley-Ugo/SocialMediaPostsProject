@@ -9,3 +9,11 @@ C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\refint\Post.Cmd.Infrastructure.dll
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.pdb
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\ref\Post.Cmd.Infrastructure.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Domain.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Common.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Common.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CopyComplete

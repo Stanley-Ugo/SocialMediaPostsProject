@@ -30,3 +30,11 @@ C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\obj\Debug\
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.pdb
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\obj\Debug\net6.0\Post.Query.Api.genruntimeconfig.cache
 C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\obj\Debug\net6.0\ref\Post.Query.Api.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\CQRS.Core.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Common.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Domain.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Infrastructure.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Domain.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Query.Infrastructure.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Query\Post.Query.Api\bin\Debug\net6.0\Post.Common.pdb

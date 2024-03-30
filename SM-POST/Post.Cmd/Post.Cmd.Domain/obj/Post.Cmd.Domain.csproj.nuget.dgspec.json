@@ -4,6 +4,79 @@
     "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {}
   },
   "projects": {
+    "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "projectName": "CQRS.Core",
+        "projectPath": "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +104,91 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.21, 6.0.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj",
+        "projectName": "Post.Common",
+        "projectPath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\Post.Common.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Projects\\SocialMediaPostsProject\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
