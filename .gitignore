@@ -1,0 +1,17 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+*/bin/
+*/obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.build*
+*.publish.xml
+*.cache
+*.log
+.vscode/
