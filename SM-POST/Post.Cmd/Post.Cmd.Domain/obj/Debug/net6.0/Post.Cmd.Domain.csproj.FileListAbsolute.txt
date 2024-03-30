@@ -1,0 +1,11 @@
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.deps.json
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.AssemblyInfo.cs
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\refint\Post.Cmd.Domain.dll
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\Post.Cmd.Domain.pdb
+C:\Projects\SocialMediaPostsProject\SM-POST\Post.Cmd\Post.Cmd.Domain\obj\Debug\net6.0\ref\Post.Cmd.Domain.dll

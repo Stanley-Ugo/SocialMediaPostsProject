@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqhznVSJWf2k8IP/SdQNGhmKNXOuP2h+cf7HkmFeQb8vJkV7w1moKovVbfDL1BLvfJf0RwQjBgKjJwPl0crsmA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\SocialMediaPostsProject\\SM-POST\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

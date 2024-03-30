@@ -1,0 +1,11 @@
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.dll
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
+C:\Projects\SocialMediaPostsProject\CQRS-ES\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll
